@@ -1,0 +1,12 @@
+-	set credentials (這部分是點設定進去看的，需要 smlsun大大確認)
+
+	-	Credentials > Add domain
+	-	Domain Name: Global credentials (unrestricted)
+	-	Description: Credentials that should be available irrespective of domain specification to requirements matching.
+	-	save domain
+	-	Global credentials (unrestricted) > Add Credentials
+	-	Kind: "SSH Username with private key"
+	-	Scope: Global
+	-	Username: [self pick]
+	-	Private Key: Enter directly
+	-	Passphrase: [self pick]
