@@ -10,12 +10,7 @@ Summary
 	-	[持續整合](basic/continuous-integration.md)
 	-	[安裝 Jenkins](basic/install.md)
 
--	[專案開發各個階段如何搭配 CI](task/README.md)
-
-	-	[build]()
-	-	[test](task/test.md)
-	-	[preview]()
-	-	[bitbucket pull request test](task/bitbucket-pr-test.md)
+-	[專案開發各個階段如何搭配 CI]()
 
 -	[常用 plugin 介紹](plugin/README.md)
 
