@@ -3,22 +3,22 @@
 
 for deploy task, can be set after deploy task is created
 
-	-	su jenkins
+-	su jenkins
 
-		-	generate ssh key
-			-	ssh-keygen -t rsa
-		-	add public key to server user's authorized_keys
-			-	cat ~/.ssh/id_rsa.pub >>~/.ssh/authorized_keys
+	-	generate ssh key
+		-	ssh-keygen -t rsa
+	-	add public key to server user's authorized_keys
+		-	cat ~/.ssh/id_rsa.pub >>~/.ssh/authorized_keys
 
-	-	Jenkins SSH Key(private key): [paste key generated at the above step]
+-	Jenkins SSH Key(private key): [paste key generated at the above step]
 
-	-	SSH Server Name: [self pick]
+-	SSH Server Name: [self pick]
 
-	-	Hostname(ip): [self pick](ex: 45.33.83.46)
+-	Hostname(ip): [self pick](ex: 45.33.83.46)
 
-	-	Username: jenkins
+-	Username: jenkins
 
-	-	Remote Directory: [self pick](ex: /srv/www/zuru)
+-	Remote Directory: [self pick](ex: /srv/www/zuru)
 
 -	remember to 'save' or 'apply'
 
