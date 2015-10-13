@@ -1,7 +1,7 @@
 # Publish over SSH 
 
 
-(for deploy task, can be set after deploy task is created)
+for deploy task, can be set after deploy task is created
 
 	-	su jenkins
 
