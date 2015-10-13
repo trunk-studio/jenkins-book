@@ -12,7 +12,7 @@
    * [GitHub pull request builder plugin](plugin/github_pull_request_builder.md)
    * [Bitbucket Plugin](plugin/bitbucket.md)
 * [Task 實作](task/README.md)
-   * [專案開發各個階段如何搭配 CI](jenkins flow.md)
+   * [專案開發各個階段如何搭配 CI](task/flow.md)
    * [build](task/build.md)
    * [test](task/test.md)
    * [bitbucket pull request test](task/bitbucket-pr-test.md)
