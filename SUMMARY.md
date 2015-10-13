@@ -1,6 +1,7 @@
 # Summary
 
 * [jenkins 簡介](README.md)
+   * pull request
 * [基本概念介紹](basic/README.md)
    * [從豐田式生產( lean producton )理解持續整合的目的](basic/lean.md)
    * [敏捷式開發](basic/agile.md)
