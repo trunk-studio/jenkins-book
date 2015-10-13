@@ -14,7 +14,7 @@
 * [Task 實作](task/README.md)
    * [build](task/build.md)
    * [test](task/test.md)
-   * preview
+   * [preview](task/preview.md)
    * [bitbucket pull request test](task/bitbucket-pr-test.md)
 * 搭配 docker 使用 Jenkins 協助測試
 
