@@ -6,7 +6,7 @@
    * [敏捷式開發](basic/agile.md)
    * [持續整合](basic/continuous-integration.md)
    * [安裝 Jenkins](basic/install.md)
-* 專案開發各個階段如何搭配 CI
+* [專案開發各個階段如何搭配 CI](jenkins flow.md)
 * [常用 plugin 介紹](plugin/README.md)
    * [publish over ssh](plugin/publish-over-ssh.md)
    * [Config File Provider](plugin/config-file-provider.md)
@@ -17,7 +17,6 @@
    * [test](task/test.md)
    * [bitbucket pull request test](task/bitbucket-pr-test.md)
    * [branch preview](task/branch_preview.md)
-   
    * [release](task/release.md)
 * [搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
 
