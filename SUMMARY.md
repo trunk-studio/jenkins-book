@@ -12,6 +12,7 @@
    * [Config File Provider](plugin/config-file-provider.md)
    * [GitHub pull request builder plugin](plugin/github_pull_request_builder.md)
    * [Bitbucket Plugin](plugin/bitbucket.md)
+* [bitbucket pull request test](task/bitbucket-pr-test.md)
 * [設定](setup/READ.me)
 * [Task 實作](task/README.md)
    * [flow](task/flow.md)
@@ -20,5 +21,4 @@
    * [branch preview](task/branch_preview.md)
    * [release](task/release.md)
 * [搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
-* [bitbucket pull request test](task/bitbucket-pr-test.md)
 
