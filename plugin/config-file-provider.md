@@ -1,2 +1,2 @@
-# Config File Provider Plugin
+# Config File Provider
 
