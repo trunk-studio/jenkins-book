@@ -1,2 +1,2 @@
-# GitHub pull request builder plugin
+# GitHub pull request builder
 
