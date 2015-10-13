@@ -8,30 +8,26 @@
 
 ## 使用前準備
 
-1. 可在目標機器建立 jenkins user
-2. 建立 ssh key
+1. 透過 jenkins user 建立 ssh key
 
+    `ssh-keygen -t rsa`
+    
+2. 將建立好的 public key 加入到要傳輸的目標機器
+    
+    `cat ~/.ssh/id_rsa.pub >>~/.ssh/authorized_keys`
 
+## plugin 相關設定
 
--	su jenkins
+進入 jenkins 後台設定，移至 `Publish over SSH` 區塊
 
-	-	generate ssh key
-		-	ssh-keygen -t rsa
-	-	add public key to server user's authorized_keys
-		-	cat ~/.ssh/id_rsa.pub >>~/.ssh/authorized_keys
+Key 的部分需要傳入剛剛建立好的 private key
 
--	Jenkins SSH Key(private key): [paste key generated at the above step]
+`cat ~/.ssh/id_rsa`
 
--	SSH Server Name: [self pick]
+name 為在 jenkins task 設定時識別名稱
+hostname 則為目標機器位置
+username 則是你要透過 ssh 登入的使用者帳號
+Remote Directory 則是你登入後期望的初始位置
 
--	Hostname(ip): [self pick](ex: 45.33.83.46)
-
--	Username: jenkins
-
--	Remote Directory: [self pick](ex: /srv/www/zuru)
-
--	remember to 'save' or 'apply'
-
-s![enter image description here](https://lh3.googleusercontent.com/-Z2_W6JPYXxY/VUCZt5X_1II/AAAAAAAAP9o/TxTOnC6b_8o/s0/Screen+Shot+2015-04-22+at+5.32.14+PM.png)
 
 ![enter image description here](https://lh3.googleusercontent.com/-N3aFi4lkTsE/VUCZyk4uloI/AAAAAAAAP90/CTGgH6-X1R4/s0/Screen+Shot+2015-04-22+at+5.35.10+PM.png)
