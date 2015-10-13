@@ -1,7 +1,17 @@
 # Publish over SSH 
 
+使用時機：
 
-for deploy task, can be set after deploy task is created
+1. 專案建置完成後需要傳輸到 production 機器時
+2. 每日建置完成後需要傳到別台機器進行備份時
+3. 檔案傳輸完成後，需要透過遠端機器進行後續指令執行時
+
+## 使用前準備
+
+1. 可在目標機器建立 jenkins user
+2. 建立 ssh key
+
+
 
 -	su jenkins
 
