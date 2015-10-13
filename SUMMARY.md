@@ -11,6 +11,7 @@
    * [publish over ssh](plugin/publish-over-ssh.md)
    * [Config File Provider](plugin/config-file-provider.md)
    * [GitHub pull request builder plugin](plugin/github_pull_request_builder.md)
+   * Bitbucket Plugin
 * [Task 實作](task/README.md)
    * [build](task/build.md)
    * [test](task/test.md)
