@@ -20,5 +20,4 @@
    * [release](task/release.md)
 * [搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
 * [bitbucket pull request test](task/bitbucket-pr-test.md)
-* pull request
 
