@@ -9,7 +9,7 @@
 * 專案開發各個階段如何搭配 CI
 * [常用 plugin 介紹](plugin/README.md)
    * [publish over ssh](plugin/publish-over-ssh.md)
-   * Config File Provider Plugin
+   * [Config File Provider Plugin](plugin/config-file-provider.md)
    * [GitHub pull request builder plugin](plugin/github_pull_request_builder.md)
 * [Task 實作](task/README.md)
    * build
