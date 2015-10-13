@@ -12,7 +12,7 @@
    * [Config File Provider](plugin/config-file-provider.md)
    * [GitHub pull request builder plugin](plugin/github_pull_request_builder.md)
    * [Bitbucket Plugin](plugin/bitbucket.md)
-* [設定](setup/)
+* [設定](setup/README.md)
 * [bitbucket pull request test](task/bitbucket-pr-test.md)
 * [Task 實作](task/README.md)
    * [flow](task/flow.md)
