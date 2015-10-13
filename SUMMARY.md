@@ -18,6 +18,6 @@
    * [develop preview](task/develop_preview.md)
    * [bitbucket pull request test](task/bitbucket-pr-test.md)
    * [release](task/release.md)
-   * branch preview
+   * [branch preview](task/branch_preview.md)
 * [搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
 
