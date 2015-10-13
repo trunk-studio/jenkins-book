@@ -13,7 +13,6 @@
    * [GitHub pull request builder plugin](plugin/github_pull_request_builder.md)
    * [Bitbucket Plugin](plugin/bitbucket.md)
 * [bitbucket pull request test](task/bitbucket-pr-test.md)
-* [設定](setup/READ.me)
 * [Task 實作](task/README.md)
    * [flow](task/flow.md)
    * [build](task/build.md)
