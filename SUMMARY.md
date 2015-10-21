@@ -26,11 +26,18 @@ Summary
 -	[Task 實作](task/README.md)
 
 	-	[flow](task/flow.md)
-	-	[build](task/build.md)
-	-	[pr test](task/pr_test.md)
-	-	[cron test](task/cron_test.md)
-	-	[branch preview](task/branch_preview.md)
-	-	[develop preview](task/develop_preview.md)
-	-	[release](task/release.md)
+	-	基礎
+
+		-	[build](task/build.md)
+		-	[test](task/test.md)
+		-	[preview](task/preview.md)
+		-	[release](task/release.md)
+
+	-	進階
+
+		-	[cron jobs test](task/cron_test.md)
+		-	[pull request test](task/pr_test.md)
+		-	[branch preview](task/branch_preview.md)
+		-	[develop preview](task/develop_preview.md)
 
 -	[搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
