@@ -11,7 +11,7 @@ Summary
 -	[設定](setup/README.md)
 
 	-	[環境變數](setup/env.md)
-	-	[credentials](setup/credentials.md)
+	-	[ssh](setup/ssh.md)
 	-	[security](setup/security.md)
 	-	[timezone](setup/timezone.md)
 
