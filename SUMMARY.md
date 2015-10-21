@@ -8,7 +8,7 @@ Summary
 	-	[持續整合](basic/continuous-integration.md)
 	-	[安裝 Jenkins](basic/install.md)
 
--	[設定](setup/README.md)
+-	設定
 
 	-	[環境變數](setup/env.md)
 	-	[ssh](setup/ssh.md)
