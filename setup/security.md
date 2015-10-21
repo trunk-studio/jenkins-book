@@ -1,7 +1,4 @@
--	set access control
+設置安全性
+==========
 
-	-	Manage Jenkins > Configure Global Security
-	-	check "Enable security"
-	-	Access Control (simple version):
-		-	"Security Realm" choose "Jenkins’ own user database"
-		-	"Authorization" choose "Logged-in users can do anything"
+![](images/security/setup.png)
