@@ -38,5 +38,6 @@ Summary
 		-	[cron jobs test](task/cron_test.md)
 		-	[pull request test](task/pr_test.md)
 		-	[branch/fork preview](task/branch_fork_preview.md)
+		-	[if test ok then preview](task/if_test_ok_then_preview.md)
 
 -	[搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
