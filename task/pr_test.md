@@ -14,6 +14,20 @@ pull request test task
 
 ![](images/prTest/hookCheck.png)
 
+### 設置
+
+設置上需要打開原始碼管理 git 之進階
+
+填入:
+
+-	Name: `origin`
+-	refspec: `+refs/pull/*:refs/remotes/origin/pr/*`
+-	Branches to build: `${sha1}`
+
+如下圖：
+
+![](images/prTest/gitSetup.png)
+
 使用輪詢
 --------
 

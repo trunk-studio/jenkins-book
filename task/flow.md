@@ -14,4 +14,4 @@ github flow
 gitflow with github flow and jenkins
 ------------------------------------
 
-![](images/flow/gitflowWithCI.png)
+![](images/flow/gitflowWithCI.jpeg)

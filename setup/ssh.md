@@ -36,4 +36,4 @@ default 會產生在 `~/.ssh` 將會有 `id_rsa`, `id_rsa.pub` 這兩個檔案
 
 我們可以先把 jenkins CI server 視為 development 測試環境，因此我們需要進行 ssh server 相關設置
 
-相關設置參考：plugin/[publish over ssh](plugin/publish-over-ssh.md) 透過該章節設置，我們可以確保 ssh 連結正常
+相關設置參考：plugin/[publish over ssh](../plugin/publish-over-ssh.md) 透過該章節設置，我們可以確保 ssh 連結正常
