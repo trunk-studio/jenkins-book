@@ -1,24 +1,10 @@
 搭配 docker 使用 Jenkins 協助測試
 =================================
 
-docker install on ubuntu
-------------------------
+搭配 docker 使用 Jenkins 的話，原本在[環境變數](setup/env.md)的設置將可以不用再 jenkins user 進行
 
-```
-sudo apt-key adv --keyserver hkp://pgp.mit.edu:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
-sudo add-apt-repository "deb https://apt.dockerproject.org/repo ubuntu-$(lsb_release -s -c) main"
-sudo apt-get update
-sudo apt-get install docker-engine
-sudo docker run hello-world
+而是直接將環境相關安裝與設置移至 docker images 來進行。
 
-```
+本講義注重再 jenkins 的操作，所以 docker images 的製作與操作細節不在此講義範圍。
 
-docker-compose install on ubuntu
---------------------------------
-
-下述指令請用 `root` 執行
-
-```
-curl -L https://github.com/docker/compose/releases/download/1.4.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
-chmod +x /usr/local/bin/docker-compose
-```
+未來將會有另外針對 docker 使用相關實作講義進行詳細說明，敬請期待。

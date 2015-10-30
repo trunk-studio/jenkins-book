@@ -41,3 +41,9 @@ Summary
 		-	[if test ok then preview](task/if_test_ok_then_preview.md)
 
 -	[搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
+
+	-	[install](withDocker/install.md)
+	-	[build](withDocker/build.md)
+	-	[test](withDocker/test.md)
+	-	[preview](withDocker/preview.md)
+	-	[release](withDocker/release.md)
