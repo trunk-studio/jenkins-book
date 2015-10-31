@@ -33,6 +33,7 @@ id
 docker -v
 docker-compose -v
 docker ps
+docker login -e smlsun.xie@gmail.com -p jenkins4ever -u trunkworkshopjenkins
 ```
 
 範例結果如下
