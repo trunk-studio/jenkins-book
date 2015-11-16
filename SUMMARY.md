@@ -47,3 +47,5 @@ Summary
 	-	[test](withDocker/test.md)
 	-	[preview](withDocker/preview.md)
 	-	[release](withDocker/release.md)
+
+-	[Q & A](QA/README.md)
