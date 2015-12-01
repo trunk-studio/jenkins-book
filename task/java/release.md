@@ -14,7 +14,7 @@ task 設置
 
 設置畫面如下：
 
-![](images/release/configProvider.png)
+![](../images/release/configProvider.png)
 
 假設 production 機器啟動後 port 為 3000
 

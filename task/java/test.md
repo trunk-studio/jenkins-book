@@ -25,4 +25,4 @@ report 位置：`**/coverage/cobertura-coverage.xml`
 執行結果
 --------
 
-![](images/test/testResult.png)
+![](../images/test/testResult.png)

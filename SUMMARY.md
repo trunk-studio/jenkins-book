@@ -15,6 +15,14 @@ Summary
 	-	[security](setup/security.md)
 	-	[timezone](setup/timezone.md)
 
+-	jenkins 常用功能
+
+	-	[build archive]()
+	-	[Jenkins API 使用簡介]()
+	-	[Plugin 安裝]()
+	-	[Subversion 整合]()
+	-	[JUnit 報表]()
+
 -	[常用 plugin 介紹](plugin/README.md)
 
 	-	[publish over ssh](plugin/publish-over-ssh.md)
@@ -22,23 +30,32 @@ Summary
 	-	[GitHub pull request builder](plugin/github_pull_request_builder.md)
 	-	[Bitbucket](plugin/bitbucket.md)
 	-	[Cobertura](plugin/cobertura.md)
+	-	[Jira](https://wiki.jenkins-ci.org/display/JENKINS/JIRA+Plugin)
 
--	[Task 實作](task/README.md)
+-	[CI flow 簡介](task/flow.md)
 
-	-	[flow](task/flow.md)
-	-	基礎
+-	Task 實作 node.js 為例
 
-		-	[build](task/build.md)
-		-	[test](task/test.md)
-		-	[preview](task/preview.md)
-		-	[release](task/release.md)
+	-	[build](task/nodejs/build.md)
+	-	[test](task/nodejs/test.md)
+	-	[preview](task/nodejs/preview.md)
+	-	[release](task/nodejs/release.md)
 
-	-	進階
+-	Task 實作 JAVA 為例
 
-		-	[cron jobs test](task/cron_test.md)
-		-	[pull request test](task/pr_test.md)
-		-	[branch/fork preview](task/branch_fork_preview.md)
-		-	[if test ok then preview](task/if_test_ok_then_preview.md)
+	-	[專案組成](task/java/project.md)
+	-	[初始資料](task/java/inital.md)
+	-	[build](task/java/build.md)
+	-	[test](task/java/test.md)
+	-	[preview](task/java/preview.md)
+	-	[release](task/java/release.md)
+
+-	Task 實作進階
+
+	-	[cron jobs test](task/cron_test.md)
+	-	[pull request test](task/pr_test.md)
+	-	[branch/fork preview](task/branch_fork_preview.md)
+	-	[if test ok then preview](task/if_test_ok_then_preview.md)
 
 -	[搭配 docker 使用 Jenkins 協助測試](withDocker/README.md)
 
@@ -48,4 +65,7 @@ Summary
 	-	[preview](withDocker/preview.md)
 	-	[release](withDocker/release.md)
 
--	[Q & A](QA/README.md)
+-	Q & A
+
+	-	[一般問題](QA/general.md)
+	-	[JAVA](QA/java.md)
