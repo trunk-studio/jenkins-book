@@ -14,6 +14,7 @@ Summary
 	-	[ssh](setup/ssh.md)
 	-	[security](setup/security.md)
 	-	[timezone](setup/timezone.md)
+	-	[master/slave](setup/master-slave.md)
 
 -	jenkins 常用功能
 
@@ -30,7 +31,7 @@ Summary
 	-	[GitHub pull request builder](plugin/github_pull_request_builder.md)
 	-	[Bitbucket](plugin/bitbucket.md)
 	-	[Cobertura](plugin/cobertura.md)
-	-	[Jira](https://wiki.jenkins-ci.org/display/JENKINS/JIRA+Plugin)
+	-	[Jira](plugin/jira.md)
 
 -	[CI flow 簡介](task/flow.md)
 
