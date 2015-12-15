@@ -34,7 +34,7 @@
    * [release](task/nodejs/release.md)
 * Task 實作以 Java 為例
    * [專案組成](task/java/projectmd.md)
-   * [初始資料](task/java/inital.md)
+   * [初始資料](task/java/initalmd.md)
    * [build](task/java/build.md)
    * [test](task/java/test.md)
    * [preview](task/java/preview.md)
