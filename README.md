@@ -12,7 +12,7 @@ Jenkins CI 實戰手冊
 閱讀須知
 --------
 
-講義內的 sample 皆以 ubuntu 作為 OS 操作相關 task
+本講義之飯粒實作皆搭配 Ubuntu Linux 作業系統，請於課前先向活動主辦單位取得 VirtualBox 虛擬機器映像檔。
 
 ### 適合對象
 
