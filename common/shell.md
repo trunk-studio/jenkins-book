@@ -31,3 +31,25 @@ Jenkins CI 在執行自訂的 Shell Script 時，會帶入以下專案建置所�
 
 我們可以利用這些參數，例如產生帶有建置流水號的打包檔。
 
+## 顯示所有環境變數
+
+```
+env
+```
+
+## 參數化建置
+
+
+以 JDBC 連線字串為例：
+
+```
+JDBC_CONNECTION_STRING
+```
+
+## Shell Script 常見指令
+
+在 Jenkins CI 定義 Shell Script，必須「避免太過複雜」。如果真的需要複雜的 Shell 指令，應該先寫成一個 Script 檔案，然後直接執行它。
+
+
+
+
