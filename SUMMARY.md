@@ -35,14 +35,14 @@ Summary
 
 -	[CI flow 簡介](task/flow.md)
 
--	Task 實作 node.js 為例
+-	Task 實作以 Node.js 為例
 
 	-	[build](task/nodejs/build.md)
 	-	[test](task/nodejs/test.md)
 	-	[preview](task/nodejs/preview.md)
 	-	[release](task/nodejs/release.md)
 
--	Task 實作 JAVA 為例
+-	Task 實作以 Java 為例
 
 	-	[專案組成](task/java/project.md)
 	-	[初始資料](task/java/inital.md)
