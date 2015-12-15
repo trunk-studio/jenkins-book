@@ -1,7 +1,7 @@
 ![enter image description here](https://lh3.googleusercontent.com/-vZ7C1C_7fUE/VUCZVwU6rpI/AAAAAAAAP9Q/zSCXlYLE5eQ/s0/jenkins-stickers.png)
 
-Jenkins 實戰手冊
-================
+Jenkins CI 實戰手冊
+====================
 
 鋼鐵人創造了 jarvis 為他打理大小事，讓他的主人可以專心在創意的發想以及對付強大的敵人；在軟體開發同樣的我們也可以透過機器人管家 Jenkins，來為我們打理開發流程中的大小事，讓我們專注在最有價值的工作上。
 
