@@ -14,7 +14,7 @@
    * [master/slave](setup/master-slave.md)
 * Jenkins CI 常用功能
    * [build archive](common/build-archive.md)
-   * [執行 Shell 指令](common/shell.md)
+   * [執行 Shell Script](common/shell.md)
    * [Jenkins API 使用簡介](common/api.md)
    * [Plugin 安裝](common/plugin.md)
    * [Subversion 整合](common/subversion.md)
