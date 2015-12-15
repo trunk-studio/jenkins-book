@@ -19,10 +19,10 @@ Summary
 -	jenkins 常用功能
 
 	-	[build archive](common/build-archive.md)
-	-	[Jenkins API 使用簡介]()
-	-	[Plugin 安裝]()
+	-	[Jenkins API 使用簡介](common/api.md)
+	-	[Plugin 安裝](common/plugin.md)
 	-	[Subversion 整合](common/subversion.md)
-	-	[JUnit 報表]()
+	-	[JUnit 報表](common/test-report.md)
 
 -	[常用 plugin 介紹](plugin/README.md)
 
