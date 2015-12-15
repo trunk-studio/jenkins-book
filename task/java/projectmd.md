@@ -12,12 +12,3 @@ JHipster 的專案由這些開發工具及框架組成：
 它可以完整呈現 Maven Project 建置所需的基本任務，包含 war package 和 test 等。
 
 
-取得 JHipster Sample Application：
-
-    git clone https://github.com/TrunkWorkshop/jhipster-sample-app.git
-
-執行：
-
-```
-mvn
-```
