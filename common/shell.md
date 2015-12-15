@@ -28,3 +28,6 @@ Jenkins CI 在執行自訂的 Shell Script 時，會帶入以下專案建置所�
 * JOB_URL
 * SVN_REVISION
 * SVN_URL
+
+我們可以利用這些參數，例如產生帶有建置流水號的打包檔。
+
