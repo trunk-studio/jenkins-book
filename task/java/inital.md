@@ -1,2 +1,30 @@
 # 初始資料
 
+
+* src/main/resources/config/application-dev.yml
+
+```
+spring:
+    profiles:
+        active: dev
+    datasource:
+        driver-class-name: org.h2.jdbcx.JdbcDataSource
+        url: jdbc:h2:mem:sampleapplication;DB_CLOSE_DELAY=-1
+        name:
+        username:
+        password:
+```
+
+* src/main/resources/config/application-prod.yml
+
+```
+spring:
+    profiles:
+        active: prod
+    datasource:
+        driver-class-name: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+        url: jdbc:mysql://localhost:3306/sampleApplication?useUnicode=true&characterEncoding=utf8
+        name:
+        username: root
+        password:
+```
