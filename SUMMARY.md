@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [基本概念介紹](basic/README.md)
-   * [從豐田式生產( lean producton )理解持續整合的目的](basic/lean.md)
+   * [豐田式生產](basic/lean.md)
    * [敏捷式開發](basic/agile.md)
    * [持續整合](basic/continuous-integration.md)
    * [安裝 Jenkins](basic/install.md)
