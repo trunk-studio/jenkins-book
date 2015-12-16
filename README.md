@@ -1,4 +1,4 @@
-![enter image description here](https://lh3.googleusercontent.com/-vZ7C1C_7fUE/VUCZVwU6rpI/AAAAAAAAP9Q/zSCXlYLE5eQ/s0/jenkins-stickers.png)
+![](cover.jpg)
 
 Jenkins CI 實戰手冊
 ====================
