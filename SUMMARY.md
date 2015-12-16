@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [基本概念介紹](basic/README.md)
-   * [從豐田式生產( lean producton )理解持續整合的目的](basic/lean.md)
+   * [豐田式生產](basic/lean.md)
    * [敏捷式開發](basic/agile.md)
    * [持續整合](basic/continuous-integration.md)
    * [安裝 Jenkins](basic/install.md)
@@ -33,8 +33,8 @@
    * [preview](task/nodejs/preview.md)
    * [release](task/nodejs/release.md)
 * Task 實作以 Java 為例
-   * [專案組成](task/java/projectmd.md)
-   * [初始資料](task/java/initalmd.md)
+   * [專案組成](task/java/project.md)
+   * [初始資料](task/java/inital.md)
    * [build](task/java/build.md)
    * [test](task/java/test.md)
    * [preview](task/java/preview.md)

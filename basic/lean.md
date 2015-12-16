@@ -1,6 +1,8 @@
 豐田式生產
 ==========
 
+如果想瞭解持續整合的目的，就需要先知道豐田式生產管理（Toyota Management）的概念，豐田式生產又稱為精實生產（Lean Producton）。
+
 根據 wiki：[豐田生產方式](http://zh.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E7%94%9F%E7%94%A2%E6%96%B9%E5%BC%8F)
 
 > 豐田式生產主要目標，是杜絕負荷過重（muri）、不平準（mura）和一切的浪費（muda）。TPS 把浪費歸納成七種：
