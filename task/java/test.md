@@ -13,16 +13,17 @@ test
 ```
 #!/bin/bash
 source ~/.bashrc
-npm i
-grunt test
+mvn clean
+cp -r ~/node_modules ./ > /dev/null
+mvn clean install test
 ```
 
-設置 Cobertura 呈現測試覆蓋率
+設置 test report 呈現測試結果
 -----------------------------
 
-report 位置：`**/coverage/cobertura-coverage.xml`
+report 位置：`target/surefire-reports/*.xml`
 
 執行結果
 --------
 
-![](../images/test/testResult.png)
+參考 [report plugin](../../common/test-report.md)

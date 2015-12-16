@@ -1,13 +1,6 @@
 preview
 =======
 
-task 建置
----------
-
-preview 將會使用到 pm2，同樣是透過 jenkins user 執行下列指令
-
-`npm install pm2 -g`
-
 建置指令
 --------
 
@@ -19,17 +12,18 @@ preview 將會使用到 pm2，同樣是透過 jenkins user 執行下列指令
 ### ssh publish setup
 
 -	Name: 選擇在 [publish-over-ssh](../plugin/publish-over-ssh.md) 建置的 ssh server
--	Source files: build.zip
--	Remote directory: deploy/temp
+-	Source files: target/sample-application-0.0.1-SNAPSHOT.war
+-	Remote directory: deploy/preview
 
 ### preview 執行指令
 
 ```
-rm -rf deploy/preview
-mkdir -p deploy/preview
-unzip -o deploy/temp/build.zip -d deploy/preview > /dev/null
-pm2 kill
-pm2 start deploy/preview/app.js
+cd deploy/preview
+
+kill `cat run.pid` || true
+kill `cat ../release/run.pid` || true
+
+java -jar target/*.war > /dev/null 2>&1 & echo $! > run.pid
 ```
 
 如此就可以很快速的將最新的程式碼啟動進行功能驗證

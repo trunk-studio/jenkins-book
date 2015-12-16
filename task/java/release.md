@@ -23,19 +23,20 @@ task 設置
 假設 preview 機器就是 production 機器
 
 -	Name: 選擇在 [publish-over-ssh](../plugin/publish-over-ssh.md) 建置的 ssh server
--	Source files: build.zip
--	Remote directory: deploy/temp
+-	Source files: target/sample-application-0.0.1-SNAPSHOT.war
+-	Remote directory: deploy/release
 
 ### production release 執行指令
 
 基本指令跟 preview 很像，資料夾是不一樣的
 
 ```
-rm -rf deploy/release
-mkdir -p deploy/release
-unzip -o deploy/temp/build.zip -d deploy/release > /dev/null
-pm2 kill
-pm2 start deploy/release/app.js
+cd deploy/release
+
+kill `cat run.pid` || true
+kill `cat ../preview/run.pid` || true
+
+java -jar target/*.war > /dev/null 2>&1 & echo $! > run.pid
 ```
 
-透過這些 task 的設置就把整個開發流程自動化完成，其實不難。
+透過這些 task 的設置就把整個開發流程自動化完成。

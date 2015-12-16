@@ -11,17 +11,16 @@ build 自動建置
 task 實作
 ---------
 
-設置 git repo 使用： `https://github.com/trunkWorkshop/nodejsSample.git`
+設置 svn repo 使用： `http://localhost/svn/testrepo`
 
 ### shell 指令
 
 ```
 #!/bin/bash
 source ~/.bashrc
-npm i
-
-grunt buildDev
-zip -r build.zip ./ > /dev/null
+mvn clean
+cp -r ~/node_modules ./ > /dev/null
+mvn -DskipTests install package
 ```
 
 第一次執行時，可以發現查無 grunt 的問題，此時我們可以 login jenkins user
