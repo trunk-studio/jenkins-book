@@ -36,4 +36,4 @@ mvn spring-boot:run
 
 用瀏覽器打開 http://127.0.0.1:8080/ 檢視網站畫面。
 
-![](initial/jhipster-screenshot.png)
+![](images/jhipster-screenshot.png)

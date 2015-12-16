@@ -28,3 +28,9 @@ spring:
         username: root
         password:
 ```
+
+檢視 H2 Database 資料。
+
+* http://localhost:8080/console/
+
+![](images/jhipster-h2-console.png)
