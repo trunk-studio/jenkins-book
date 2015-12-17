@@ -24,14 +24,12 @@ Jenkins CI 實戰手冊
 講座與課程
 ----------
 
-* 本講義使用於 iThome 舉辦之 [Jenkins 持續整合實戰講堂](http://devopsconf.ithome.com.tw/workshop/jenkins/index.html)
+講義提供給參加 Jenkins CI 課程活動之學員。
+
+* iThome 舉辦之 [Jenkins 持續整合實戰講堂](http://devopsconf.ithome.com.tw/workshop/jenkins/index.html)
 * 企業或學校辦理相關軟體開發培訓課程請聯繫 workshop@trunksys.com
 
 講義作者
 --------
 
-Spooky - 創科資訊研發團隊
-
-Kyle - 
-
-版權所有：[創科資訊股份有限公司](http://trunk-studio.com/)
+本講義由[創科資訊](http://trunk-studio.com/)研發團隊的 Spooky 及 Kyle 編著，如需要分享請先獲得授權許可。
