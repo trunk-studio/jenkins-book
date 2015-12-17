@@ -47,9 +47,9 @@ export NVM_DIR="/var/lib/jenkins/.nvm"
 
 ### jenkins CI check environment
 
-![](images/env/addBuildStep.png)
+![](../../setup/images/env/addBuildStep.png)
 
-![](images/env/shellScript.png)
+![](../../setup/images/env/shellScript.png)
 
 ```
 #!/bin/bash
