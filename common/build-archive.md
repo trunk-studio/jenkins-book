@@ -13,7 +13,7 @@ Archive the artifacts
 設置要封存的檔案
 ----------------
 
-![](images/build-archive/task-post-setting.png)
+![](images/build-archive/task-setting.png)
 
 此例而言，我們可以填入 `target/sample-application-0.0.1-SNAPSHOT.war`
 
