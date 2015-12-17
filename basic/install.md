@@ -1,5 +1,3 @@
-![enter image description here](https://lh3.googleusercontent.com/-vZ7C1C_7fUE/VUCZVwU6rpI/AAAAAAAAP9Q/zSCXlYLE5eQ/s0/jenkins-stickers.png)
-
 Jenkins 可以在 Windows、Linux 或 Mac OS X 環境執行，一般來說我們會盡可能選擇跟 Production / Testing 伺服器接近的環境來運行。
 
 本書範例皆以 Ubuntu Linux 演示
@@ -29,4 +27,13 @@ wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add
 sudo sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
 sudo apt-get update
 sudo apt-get install jenkins
+```
+
+管理 Jenkins 伺服器
+-------------------
+
+重新啟動 Jenkins 伺服器。
+
+```
+sudo service jenkins restart
 ```
