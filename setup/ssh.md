@@ -1,7 +1,7 @@
 SSH
 ===
 
-為 Jenkins user 建立 ssh key
+為 Jenkins User 建立 ssh key
 ----------------------------
 
 ssh 在自動化的過程扮演很重要的角色，因此我們需要先將 jenkins 的 ssh key 產生出來
