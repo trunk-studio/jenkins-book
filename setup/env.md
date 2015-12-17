@@ -19,7 +19,7 @@
 
 我們可以在登入 ubuntu 時透過
 
-`sudo su jenkins` 來切換，該 user 的 home 為 `/var/lib/jenkins`
+`sudo su jenkins` 來切換，該 user 的家目錄（Home Directory）位置是 `/var/lib/jenkins`
 
 建立建置環境所需 library
 ------------------------
