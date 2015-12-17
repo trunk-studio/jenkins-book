@@ -32,7 +32,7 @@ jenkins:x:125:
 
 檔案權限的觀念在 Linux 系統中很重要，你在自己或其他帳號的家目錄中安裝的程式或放置的檔案，並不一定能夠被 Jenkins 的任務使用。
 
-在終端機中使用 `sudo su jenkins` 可以切換成 `jenkins` 使用者的身份進行各項操作，該 user 的家目錄（Home Directory）位置是 `/var/lib/jenkins`。
+如果你希望幫 `jenkins` 帳號增加一些專屬的配置，需要在終端機中使用 `sudo su jenkins` 可以切換成 `jenkins` 使用者的身份進行各項操作，該 user 的家目錄（Home Directory）位置是 `/var/lib/jenkins`。
 
 建立建置環境所需 library
 ------------------------
