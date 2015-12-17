@@ -5,6 +5,8 @@ Jenkins 可以在 Windows、Linux 或 Mac OS X 環境執行，一般來說我們
 ubuntu install jenkins & setting
 --------------------------------
 
+安裝 Java 7+
+-------------
 
 ```
 sudo apt-get update
