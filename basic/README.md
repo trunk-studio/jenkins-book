@@ -20,7 +20,7 @@
 
 除了解決不必要的浪費，還有避免人為錯誤，一旦所有程序都自動化後，錯誤將容易被排除驗證。
 
-就像[豐田式生產](https://zh.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E7%94%9F%E7%94%A2%E6%96%B9%E5%BC%8F)(TPS, lean production)所提倡的理念：杜絕浪費；每一次的浪費一旦被避免，也就表示有更多時間資源可以進行有價值的事！
+就像[豐田式生產](https://zh.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E7%94%9F%E7%94%A2%E6%96%B9%E5%BC%8F)（TPS, lean production）所提倡的理念：杜絕浪費；每一次的浪費一旦被避免，也就表示有更多時間資源可以進行有價值的事！
 
 上述內容節錄自：[企業端如何推動持續整合開發流程](http://blog.trunk-studio.com/ci_impl/)
 
