@@ -2,8 +2,10 @@
 
 Jenkins 可以在 Windows、Linux 或 Mac OS X 環境執行，一般來說我們會盡可能選擇跟 Production / Testing 伺服器接近的環境來運行。
 
-ubuntu install jenkins & setting
---------------------------------
+本書範例皆以 Ubuntu Linux 演示
+-------------------------------
+
+因為 Ubuntu Linux 相容多數 Open Source 軟體，也被用於許多 Production Server 環境，因此使用 Ubuntu Linux 作為 Jenkins 入門的系統，可以
 
 安裝 Java 軟體
 ---------------
