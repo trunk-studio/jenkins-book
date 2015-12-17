@@ -14,9 +14,9 @@
 
 上述每一個環節都是要避免所有不必要的浪費
 
-1.	Agile Development: 避免用昂貴的人力(你)無效的溝通
-2.	Continuous Integration: 避免用昂貴的人力(你)進行重覆測試，避免用昂貴的人力(你)進行重覆程式打包
-3.	Continuous Delivery: 避免用昂貴的人力(你)進行 produciton deploy
+1. Agile Development：避免用昂貴的人力（你）無效的溝通。
+2. Continuous Integration：避免用昂貴的人力（你）進行重覆測試，避免用昂貴的人力（你）進行重覆專案的建置及測試。
+3. Continuous Delivery：避免用昂貴的人力（你）處理 produciton deployment 的瑣碎細節。
 
 除了解決不必要的浪費，還有避免人為錯誤，一旦所有程序都自動化後，錯誤將容易被排除驗證。
 
