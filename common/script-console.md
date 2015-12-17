@@ -33,3 +33,5 @@ Script 可以配合 crontab 等機制定期執行，例如每日（daily）或�
     curl --data-urlencode "script=$(<script1.groovy)" http://jenkins.local/scriptText
 
 備註：必須先將 Script 程式碼儲存為 `script1.groovy`
+
+Script 主要用於 Job / Task 的維護，例如我們想要一次更新數十甚至數百的 Job 的特定參數內容，就可以撰寫 Script 來取代瑣碎的人工作業。
