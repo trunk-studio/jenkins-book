@@ -6,11 +6,11 @@ Jenkins 有許多社群貢獻的第三方 Plugins：
 - [NodeJS Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin)
 - [Rvm](https://wiki.jenkins-ci.org/display/JENKINS/RVM+Plugin)
 
-但是除非您已經瞭解這些 Plugins 的特性及可能帶來的副作用，否則並不建議一開始就安裝太多 Plugins。
+但是實務上有可能用了 Node.js Plugin 就會影響 RVM 的運作。
+
+除非您已經瞭解這些 Plugins 的特性及可能帶來的副作用，否則並不建議一開始就安裝太多 Plugins。
 
 事實上絕大多數的建置流程，都可以利用 Jenkins 內建的任務定義方式來完成；如果搭配 Docker 來用更可以大幅化簡開發環境的配置工作。
-
-但實務上有可能用了 Node.js Plugin 就會影響 RVM 的運作。
 
 建議的直接使用 jenkins 所設置的 user 把相關的環境設置完成。
 
