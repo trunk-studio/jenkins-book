@@ -16,13 +16,13 @@
 在 Ubuntu Linux 利用 `apt-get` 完成 Jenkins 安裝後，會自動產生名為 `jenkins` 的系統使用者帳號（user）及群組（group）。
 
 
-/etc/passwd
+`/etc/passwd`
 
 ```
 jenkins:x:117:125:Jenkins,,,:/var/lib/jenkins:/bin/bash
 ```
 
-/etc/group
+`/etc/group`
 
 ```
 jenkins:x:125:
