@@ -5,7 +5,7 @@ Jenkins 可以在 Windows、Linux 或 Mac OS X 環境執行，一般來說我們
 ubuntu install jenkins & setting
 --------------------------------
 
-openjdk-7-jre and openjdk-7-jdk are suggested.
+openjdk-7-jdk
 
 安裝方式:
 ---------
