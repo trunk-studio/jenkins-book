@@ -13,7 +13,9 @@
 確認使用者
 ----------
 
-通常安裝完 jenkins 時，在 linux 會幫你建立 jenkins user
+在 Ubuntu Linux 利用 `apt-get` 完成 Jenkins 安裝後，會自動產生名為 `jenkins` 的系統使用者帳號（user）及群組（group）。
+
+
 
 在 jenkins CI 底下所做的任何事情大多會透過 jenkins user 來做
 
