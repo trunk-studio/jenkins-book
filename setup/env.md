@@ -1,12 +1,12 @@
 建置環境設置
 ============
 
-可以使用如:
+可以使用如：
 
 -	[NodeJS Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin)
 -	[Rvm](https://wiki.jenkins-ci.org/display/JENKINS/RVM+Plugin)
 
-但實務上有可能用了 NodeJS Plugin 就會影響 RVM 的運作。
+但實務上有可能用了 Node.js Plugin 就會影響 RVM 的運作。
 
 建議的直接使用 jenkins 所設置的 user 把相關的環境設置完成。
 
