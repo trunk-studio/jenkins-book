@@ -6,12 +6,12 @@ Git-Flow
 
 ![](images/flow/gitflow.png)
 
-github flow
+GitHub Flow
 -----------
 
 ![](images/flow/githubflow.png)
 
-gitflow with github flow and jenkins
-------------------------------------
+Git-Flow with GitHub Flow and Jenkins
+--------------------------------------
 
 ![](images/flow/gitflowWithCI.jpeg)
