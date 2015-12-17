@@ -13,8 +13,8 @@ Daliy Build（or Nightly Build）
 3.	一旦發生錯誤，一律需要當天確認，並且當天修正完畢
 4.	一旦建置完成 deploy 到 develop 機器進行測試
 
-week build
-----------
+Weekly Build
+-------------
 
 1.	每個週末選定一天進行建置
 2.	建置前需要通過所有的規格運行
