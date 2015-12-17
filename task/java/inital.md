@@ -29,8 +29,13 @@ spring:
         password:
 ```
 
-檢視 H2 Database 資料。
+檢視 H2 Database 的資料，可以利用 H2 Console。
 
 * http://localhost:8080/console/
 
 ![](images/jhipster-h2-console.png)
+
+在 H2 Console 檢視 Table 內容以及利用 SQL 進行查詢。
+
+![](images/jhipster-h2-console-main.png)
+
