@@ -27,7 +27,7 @@
    * [Cobertura](plugin/cobertura.md)
    * [Jira](plugin/jira.md)
 * [CI flow 簡介](task/flow.md)
-* Task 實作以 Node.js 為例
+* [Task 實作以 Node.js 為例](task/nodejs/README.md)
    * [build](task/nodejs/build.md)
    * [test](task/nodejs/test.md)
    * [preview](task/nodejs/preview.md)
