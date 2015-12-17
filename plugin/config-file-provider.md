@@ -17,3 +17,10 @@ Config File Provider
 ### 在 task 使用 config file
 
 ![](images/provideConfig/taskSetting.png)
+
+
+
+<!--
+1. config backup
+2. config security
+-->
