@@ -14,8 +14,8 @@ Jenkins 有許多社群貢獻的第三方 Plugins：
 
 建議的直接使用 Jenkins 所設置的 user 把相關的環境設置完成。
 
-確認使用者
-----------
+配置 Jenkins 使用者的環境
+--------------------------
 
 在 Ubuntu Linux 利用 `apt-get` 完成 Jenkins 安裝後，會自動產生名為 `jenkins` 的系統使用者帳號（user）及群組（group）。
 
