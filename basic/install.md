@@ -5,8 +5,10 @@ Jenkins 可以在 Windows、Linux 或 Mac OS X 環境執行，一般來說我們
 ubuntu install jenkins & setting
 --------------------------------
 
-安裝 Java 7+
--------------
+安裝 Java 軟體
+---------------
+
+建議使用 JDK 1.7 以上版本。
 
 ```
 sudo apt-get update
