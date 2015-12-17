@@ -18,7 +18,7 @@ Jenkins CI 實戰手冊
 
 適合對開發流程自動化感興趣的 IT 從業人員，或是導入敏捷開發卻無法敏捷的團隊學習，適合不排斥在 Linux 命令列輸入指令的人，因為大部份自動化程序都需要透過命令列輸入指令執行。
 
-講義將針對 Web 相關應用如 Web Application、API Server 相關開發應用進行展演（App 開發流程與 web 有專業上的不同，特別提醒 App 開發者注意） 講師本身熟悉 Java 以及 Javascript 開發，課程將以 Node.js 範例專案進行演練，但 CI 導入觀念與流程適用於各種語言
+講義將針對 Web 相關應用如 Web Application、API Server 相關開發應用進行展演（App 開發流程與 Web 有專業上的不同，特別提醒 App 開發者注意） 講師本身熟悉 Java 以及 Javascript 開發，課程將以 Node.js 範例專案進行演練，但 CI 導入觀念與流程適用於各種語言
 
 講座與課程
 ----------
