@@ -17,7 +17,7 @@
 
 在 jenkins CI 底下所做的任何事情大多會透過 jenkins user 來做
 
-使用 `sudo su jenkins` 來切換，該 user 的家目錄（Home Directory）位置是 `/var/lib/jenkins`
+使用 `sudo su jenkins` 可以切換成 `jenkins` 使用者的身份進行操作，該 user 的家目錄（Home Directory）位置是 `/var/lib/jenkins`
 
 建立建置環境所需 library
 ------------------------
