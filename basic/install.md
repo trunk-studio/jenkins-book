@@ -10,7 +10,7 @@ openjdk-7-jre and openjdk-7-jdk are suggested.
 安裝方式:
 ---------
 
--	https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu
+參考 Jenkins 官方的 Ubuntu Linux [安裝說明](https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu)
 
 ```
 wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
