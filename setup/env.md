@@ -6,7 +6,7 @@ Jenkins 有許多社群貢獻的第三方 Plugins：
 - [NodeJS Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin)
 - [Rvm](https://wiki.jenkins-ci.org/display/JENKINS/RVM+Plugin)
 
-但是以筆者過去經驗來說，就遇過安裝 Node.js Plugin 就會影響 RVM Plugin 的運作，安裝過多的 Plugins 並非好事。
+但是以筆者過去經驗來說，就遇過安裝 Node.js Plugin 就會影響 RVM Plugin 的運作，安裝過多的 Plugins 可能導致許多問題。
 
 除非您已經瞭解這些 Plugins 的特性及可能帶來的副作用，否則並不建議一開始就安裝太多 Plugins。
 
