@@ -1,7 +1,7 @@
 設置建置環境
 ============
 
-Jenkins 有許多第三方：
+Jenkins 有許多社群貢獻的第三方 Plugin：
 
 - [NodeJS Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin)
 - [Rvm](https://wiki.jenkins-ci.org/display/JENKINS/RVM+Plugin)
