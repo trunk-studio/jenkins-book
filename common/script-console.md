@@ -28,3 +28,8 @@ Script Console 支援 Groovy 程式語言，一個最簡單的 Hello World 範�
       }
     }
 
+Script 可以配合 crontab 等機制定期執行，例如每日（daily）或每小時（hourly），利用 command-line 來執行 Script 的方法如下：
+
+    curl --data-urlencode "script=$(<script1.groovy)" http://jenkins.local/scriptText
+
+備註：必須先將 Script 程式碼儲存為 `script1.groovy`
