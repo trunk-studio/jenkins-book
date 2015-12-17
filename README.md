@@ -26,4 +26,6 @@ Jenkins CI 實戰手冊
 * 本講義使用於 iThome 舉辦之 [Jenkins 持續整合實戰講堂](http://devopsconf.ithome.com.tw/workshop/jenkins/index.html)
 * 企業或學校辦理相關軟體開發培訓課程請聯繫 workshop@trunksys.com
 
+
+
 版權所有：[創科資訊股份有限公司](http://trunk-studio.com/)
