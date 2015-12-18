@@ -19,7 +19,7 @@
    * [Plugin 安裝](common/plugin.md)
    * [Subversion 整合](common/subversion.md)
    * [JUnit 報表](common/test-report.md)
-   * Script Console
+   * [Script Console](common/script-console.md)
 * [常用 plugin 介紹](plugin/README.md)
    * [publish over ssh](plugin/publish-over-ssh.md)
    * [Config File Provider](plugin/config-file-provider.md)
