@@ -33,7 +33,7 @@
    * [test](task/nodejs/test.md)
    * [preview](task/nodejs/preview.md)
    * [release](task/nodejs/release.md)
-* [Task 實作以 Java 為例](common/script-console.md)
+* [Task 實作以 Java 為例](task/java/README.md)
    * [專案組成](task/java/project.md)
    * [初始資料](task/java/inital.md)
    * [build](task/java/build.md)
