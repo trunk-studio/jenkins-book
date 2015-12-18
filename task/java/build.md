@@ -11,7 +11,7 @@ build 自動建置
 task 實作
 ---------
 
-設置 svn repo 使用：
+先設置 SVN Repository 使用：
 
 ```
 http://localhost/svn/testrepo
