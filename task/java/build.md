@@ -17,7 +17,7 @@ task 實作
 http://localhost/svn/testrepo
 ```
 
-### shell 指令
+### Shell 指令
 
 ```
 #!/bin/bash
