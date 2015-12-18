@@ -11,7 +11,11 @@ build 自動建置
 task 實作
 ---------
 
-設置 svn repo 使用： `http://localhost/svn/testrepo`
+設置 svn repo 使用：
+
+```
+http://localhost/svn/testrepo
+```
 
 ### shell 指令
 
