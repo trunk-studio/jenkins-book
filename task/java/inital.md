@@ -44,3 +44,7 @@ spring:
 ```
 src/main/resources/config/liquibase
 ```
+
+瞭解 Liquibase 的 Load Data
+
+* http://www.liquibase.org/documentation/changes/load_data.html
