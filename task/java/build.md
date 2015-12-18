@@ -8,7 +8,7 @@ build 自動建置
 2.	週期性建置
 3.	進行正式機部署時事先建置
 
-task 實作
+Task 實作
 ---------
 
 先設置 SVN Repository 使用：
