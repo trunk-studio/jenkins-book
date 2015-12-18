@@ -39,3 +39,8 @@ spring:
 
 ![](images/jhipster-h2-console-main.png)
 
+資料庫初始化資料存放路徑
+
+```
+src/main/resources/config/liquibase
+```
