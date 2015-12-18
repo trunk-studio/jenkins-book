@@ -27,7 +27,7 @@ cp -r ~/node_modules ./ > /dev/null
 mvn -DskipTests install package
 ```
 
-第一次執行時，可以發現查無 grunt 的問題，此時我們可以 login jenkins user
+第一次執行時，可以發現查無 Grunt 的問題，此時我們可以 login jenkins user
 
 安裝 grunt-cli 透過：`npm i grunt-cli -g`
 
