@@ -1,5 +1,5 @@
 Jenkins CI 實戰手冊
-====================
+===================
 
 <img src="cover.jpg" align="right" style="width:35%; margin: 15px; box-shadow: 2px 2px 5px #888" />
 
@@ -26,8 +26,9 @@ Jenkins CI 實戰手冊
 
 本講義提供給參加 Jenkins CI 課程活動之學員。
 
-* iThome 舉辦之 [Jenkins 持續整合實戰講堂](http://devopsconf.ithome.com.tw/workshop/jenkins/index.html)
-* 企業或學校辦理相關軟體開發培訓課程請聯繫 workshop@trunksys.com
+-	資策會 舉辦之 [DevOps：Jenkins + Docker 持續整合實務班](http://www.iiiedu.org.tw/ites/JKS.htm)
+-	iThome 舉辦之 [Jenkins 持續整合實戰講堂](http://devopsconf.ithome.com.tw/workshop/jenkins/index.html)
+-	企業或學校辦理相關軟體開發培訓課程請聯繫 workshop@trunksys.com
 
 講義作者
 --------
