@@ -1,4 +1,5 @@
-# Task 實作以 Node.js 為例
+Task 實作以 Node.js 為例
+========================
 
 建立建置環境所需 library
 ------------------------
@@ -29,13 +30,13 @@ export NVM_DIR="/var/lib/jenkins/.nvm"
 
 ### 安裝 NodeJS
 
-`nvm install iojs-v1.8`
+`nvm install v4`
 
 透過 nvm 的協助我們可以很方便進行 NodeJS 版本切換，這也會使我們在建置時可以很方便的切換版本。
 
 如果你要設置某個版本為預設，可以使用下列指令
 
-`nvm alias default iojs-v1.8`
+`nvm alias default v4`
 
 如此我們可以確認一下目前 NodeJS 的版本
 

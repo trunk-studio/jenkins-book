@@ -18,9 +18,9 @@ task 實作
 ```
 #!/bin/bash
 source ~/.bashrc
+cp -r ~/sailsSample/node_modules/ node_modules
 npm i
-
-grunt buildDev
+grunt build
 zip -r build.zip ./ > /dev/null
 ```
 
