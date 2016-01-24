@@ -43,7 +43,7 @@ uid=116(jenkins) gid=125(jenkins) groups=125(jenkins),998(docker)
 Docker version 1.8.3, build f4bf5c7
 docker-compose version: 1.4.2
 CONTAINER ID        IMAGE                 COMMAND                  CREATED             STATUS              PORTS                    NAMES
-a71fb8e3990f        miiixr/picklete_env   "/bin/bash -l -c 'npm"   16 hours ago        Up 2 minutes        0.0.0.0:1337->1337/tcp   nodejsSample
+a71fb8e3990f        miiixr/picklete_env   "/bin/bash -l -c 'npm"   16 hours ago        Up 2 minutes        0.0.0.0:1337->1337/tcp   sailsSample
 dc968421b7dc        dgraziotin/mysql      "/run.sh"                16 hours ago        Up 2 minutes        0.0.0.0:3306->3306/tcp   mysql
 Finished: SUCCESS
 ```

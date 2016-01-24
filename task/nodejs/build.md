@@ -11,7 +11,7 @@ build 自動建置
 task 實作
 ---------
 
-設置 git repo 使用： `https://github.com/trunkWorkshop/nodejsSample.git`
+設置 git repo 使用： `https://github.com/trunkWorkshop/sailsSample.git`
 
 ### shell 指令
 
