@@ -12,9 +12,21 @@ task 設置
 
 使用 [config-file-provider](../plugin/config-file-provider.md)
 
+設定檔內容如下：
+
+```
+module.exports = {
+  port: 3000
+}
+```
+
 設置畫面如下：
 
 ![](../images/release/configProvider.png)
+
+設置替換位置為 `config/local.js`。
+
+![](images/task config provider setup.png)
 
 假設 production 機器啟動後 port 為 3000
 
