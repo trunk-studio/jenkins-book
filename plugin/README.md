@@ -1,8 +1,4 @@
--	install plugin
+plugin
+------
 
-	-	Bitbucket Plugin
-	-	Config File Provider Plugin
-	-	NodeJS Plugin
-	-	Publish Over SSH
-	-	ruby-runtime, rvm (don't need if installing rvm manually later)
-	-	Slack Notification Plugin
+plugin 是在使用 jenkins 時很重要的一環，透過 plugin 可以簡化一些設置跟操作，本章節將介紹一些好用的 plugin

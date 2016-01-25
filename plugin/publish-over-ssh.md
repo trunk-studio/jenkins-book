@@ -1,24 +1,22 @@
--	Publish over SSH (for deploy task, can be set after deploy task is created)
+Publish over SSH
+================
 
-	-	su jenkins
+使用時機：
 
-		-	generate ssh key
-			-	ssh-keygen -t rsa
-		-	add public key to server user's authorized_keys
-			-	cat ~/.ssh/id_rsa.pub >>~/.ssh/authorized_keys
+1.	專案建置完成後需要傳輸到 production 機器時
+2.	每日建置完成後需要傳到別台機器進行備份時
+3.	檔案傳輸完成後，需要透過遠端機器進行後續指令執行時
 
-	-	Jenkins SSH Key(private key): [paste key generated at the above step]
+使用前準備：建立 ssh key
+------------------------
 
-	-	SSH Server Name: [self pick]
+參考 plugin/[ssh](setup/ssh.md) 章節設置好 ssh key
 
-	-	Hostname(ip): [self pick](ex: 45.33.83.46)
+plugin 相關設定
+---------------
 
-	-	Username: jenkins
+進入 jenkins 後台設定，移至 `Publish over SSH` 區塊
 
-	-	Remote Directory: [self pick](ex: /srv/www/zuru)
+name 為在 jenkins task 設定時識別名稱 hostname 則為目標機器位置 username 則是你要透過 ssh 登入的使用者帳號 Remote Directory 則是你登入後期望的初始位置，下面是設置的畫面
 
--	remember to 'save' or 'apply'
-
-s![enter image description here](https://lh3.googleusercontent.com/-Z2_W6JPYXxY/VUCZt5X_1II/AAAAAAAAP9o/TxTOnC6b_8o/s0/Screen+Shot+2015-04-22+at+5.32.14+PM.png)
-
-![enter image description here](https://lh3.googleusercontent.com/-N3aFi4lkTsE/VUCZyk4uloI/AAAAAAAAP90/CTGgH6-X1R4/s0/Screen+Shot+2015-04-22+at+5.35.10+PM.png)
+![enter image description here](images/publishOverSsh/task_ssh_setting.png)
