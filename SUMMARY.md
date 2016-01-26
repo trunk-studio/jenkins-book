@@ -6,6 +6,7 @@ Summary
 -   [敏捷開發方法](agile.md)
 -   [安裝與設定](setup.md)
 -   [環境設置](env.md)
+-   [常見問題](qa.md)
 -   [更多內容與課程...](more.md)
 
 <!--
@@ -48,7 +49,4 @@ Summary
 	-	[test](withDocker/test.md)
 	-	[preview](withDocker/preview.md)
 	-	[release](withDocker/release.md)
--	Q & A
-	-	[一般問題](QA/general.md)
-	-	[JAVA](QA/java.md)
 -->
