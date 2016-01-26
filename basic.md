@@ -37,7 +37,7 @@ http://www.collab.net/services/consulting
 
 延伸閱讀：
 
-* [企業端如何推動持續整合開發流程][2] goo.gl/iiCai7
+* [企業端如何推動持續整合開發流程][2]<br/>goo.gl/iiCai7
 
   [1]: https://zh.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E7%94%9F%E7%94%A2%E6%96%B9%E5%BC%8F
   [2]: http://blog.trunk-studio.com/ci_impl/

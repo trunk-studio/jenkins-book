@@ -2,11 +2,11 @@ Summary
 =======
 
 -	[序篇](README.md)
--	[基礎介紹](00-basic.md)
--   [敏捷開發方法](01-agile.md)
--   [安裝與設定](02-setup.md)
--   [環境設置](03-env.md)
--   [更多內容與課程...](99-more.md)
+-	[基礎介紹](basic.md)
+-   [敏捷開發方法](agile.md)
+-   [安裝與設定](setup.md)
+-   [環境設置](env.md)
+-   [更多內容與課程...](more.md)
 
 <!--
 -	Jenkins CI 常用功能
