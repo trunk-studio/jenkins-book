@@ -25,15 +25,18 @@ Mac OS X 與 Windows 使用者，建議安裝 VirtualBox 虛擬機器軟體。
 
 本書將針對 Web 相關應用如 Web Application、API Server 相關開發應用進行演示（因 App 開發流程與 Web 有所差異，特別提醒 App 開發者留意）講師本身熟悉 Java 以及 JavaScript 開發，因此課程將以 Node.js 範例專案進行演練，但實際 CI 的導入應用觀念與流程，可適用於大多數程式語言及開發工具。
 
-講座與課程
-----------
+如何獲得本書？
+------------
 
-本書提供給參加 Jenkins CI 課程活動之學員。
+本書限量提供給參加 Jenkins CI 課程活動之學員。
 
--	資策會舉辦之 [DevOps：Jenkins + Docker 持續整合實務班](http://www.iiiedu.org.tw/ites/JKS.htm)
--	iThome 舉辦之 [Jenkins 持續整合實戰講堂](http://devopsconf.ithome.com.tw/workshop/jenkins/index.html)
+近期舉辦的課程：
 
-企業或學校辦理相關軟體開發培訓課程，歡迎聯繫創科資訊：
+- 2016/01/27 [Jenkins CI 從入門到實戰講座](http://trunk-studio.kktix.cc/events/jenkins-2016001) （線上課程）
+- 資策會舉辦之 [DevOps：Jenkins + Docker 持續整合實務班](http://www.iiiedu.org.tw/ites/JKS.htm)
+- iThome 舉辦之 [Jenkins 持續整合實戰講堂](http://devopsconf.ithome.com.tw/workshop/jenkins/index.html)
+
+企業或學校辦理相關軟體開發培訓課程，歡迎聯繫**創科資訊**：
 
 * 信箱： workshop@trunksys.com
 * 電話： (04)2201-9020<br/> 9:30 am ~ 6:30 pm
@@ -41,13 +44,13 @@ Mac OS X 與 Windows 使用者，建議安裝 VirtualBox 虛擬機器軟體。
 作者
 ----
 
-由[創科資訊](http://trunk-studio.com/)教學研發團隊編撰。
+本書由[創科資訊](http://trunk-studio.com/)教學研發團隊編撰。
 
-Spooky / 謝宗穎
+**Spooky / 謝宗穎**
 
 實務上的 Web Full Stack 開發經驗，熟悉 Java 及 JavaScript 開發，對開發流程優化有高度興趣，提倡 TDD 開發方式，以及透過 Jenkins CI 進行自動化，利用 Docker 輔助開發或測試環境的建置。目前在創科資訊研發團隊擔任技術主管，並且喜好吸收新知、樂於在任何場合進行分享。
 
-Kyle / 林彥宏
+**Kyle / 林彥宏**
 
 逾十年的軟體專案開發經驗，將軟體設計視為畢生的志業，網路相關應用服務的設計研發，從 PHP、.NET、Java 到 Node.js 皆有實戰經驗，熟悉 Linux 伺服器及 AWS 雲端平台服務，從事軟體開發顧問及培訓工作，經常在企業及校園分享。於 2015 年成立創科資訊公司，招募優秀軟體人才組織研發團隊，重視軟體設計理念在實務上的實踐，為追求卓越品質的企業提供軟體開發與顧問諮詢服務。
 

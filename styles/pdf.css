@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+p, li {
+    font-family: serif;
+    font-weight: 150;
+}
+
+p strong, li strong {
+    font-family: sans-serif;
+    font-weight: 900;
+}
+

@@ -3,7 +3,12 @@ Summary
 
 -	[序篇](README.md)
 -	[基礎介紹](00-basic.md)
--	[設定](01-setup.md)
+-   [敏捷開發方法](01-agile.md)
+-   [安裝與設定](02-setup.md)
+-   [環境設置](03-env.md)
+-   [更多內容與課程...](99-more.md)
+
+<!--
 -	Jenkins CI 常用功能
 	-	[build archive](common/build-archive.md)
 	-	[執行 Shell Script](common/shell.md)
@@ -46,3 +51,4 @@ Summary
 -	Q & A
 	-	[一般問題](QA/general.md)
 	-	[JAVA](QA/java.md)
+-->
