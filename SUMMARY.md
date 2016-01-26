@@ -1,18 +1,9 @@
 Summary
 =======
 
--	[Introduction](README.md)
--	[基本概念介紹](basic/README.md)
-	-	[豐田式生產](basic/lean.md)
-	-	[敏捷式開發](basic/agile.md)
-	-	[持續整合](basic/continuous-integration.md)
-	-	[安裝 Jenkins](basic/install.md)
--	設定
-	-	[環境變數](setup/env.md)
-	-	[ssh](setup/ssh.md)
-	-	[security](setup/security.md)
-	-	[timezone](setup/timezone.md)
-	-	[master/slave](setup/master-slave.md)
+-	[序篇](README.md)
+-	[基礎介紹](00-basic.md)
+-	[設定](01-setup.md)
 -	Jenkins CI 常用功能
 	-	[build archive](common/build-archive.md)
 	-	[執行 Shell Script](common/shell.md)
