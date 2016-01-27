@@ -3,6 +3,12 @@
 
 感謝您閱讀《Jenkins CI 實戰手冊》電子書**早鳥版**！
 
+這本書還在長大！
+
+歡迎關注我們最新的 Jenkins Workshop 實戰課程，最新的電子書將會在課程中一起發送給所有參加的學員！
+
+http://workshop.trunk-studio.com/
+
 本書編輯團隊會不定期增加更多新的章節，並透過 Email 發送給您！
 
 * 如何搭配 Workflow Plugin 達到更好的建置流程？

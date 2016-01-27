@@ -7,6 +7,7 @@ Summary
 -   [安裝與設定](setup.md)
 -   [環境設置](env.md)
 -   [常見問題](qa.md)
+-   [實作：Jenkins + Node.js](nodejs.md)
 -   [更多內容與課程...](more.md)
 
 <!--
